@@ -11,7 +11,7 @@ Hi there, I'm Roberto L. :smile:
 > 👥 [Since I was a kid, I've been curious about the tech world. Now, I'm making a living from it. 🤍]
 
 ## Technologies:
-NORMAL
+
 [![Static Badge](https://img.shields.io/badge/HTML5-orange?style=flat&logo=Html5&logoColor=orange&labelColor=white)
 ](#)
 [![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS3&logoColor=blue&labelColor=white)](#)
@@ -19,7 +19,7 @@ NORMAL
 ](#)
 [![Static Badge](https://img.shields.io/badge/JQuery-blue?style=flat&logo=JQuery&logoColor=blue&labelColor=white)
 ](#)
-[](#)
+[![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=Blue&labelColor=white)](#)
 [](#)
 [![Static Badge](https://img.shields.io/badge/Angular-red?style=flat&logo=Angular&logoColor=red&labelColor=white)
 ](#)
