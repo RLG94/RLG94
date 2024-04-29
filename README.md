@@ -71,27 +71,12 @@ And some more...
 <tr>
 <td>
 <a href="#">
-<img src="#">
+<img src="https://i.imgur.com/lQs9IXw.png" width="300" height="auto">
 </a>
 </td>
 <td>
 <a href="#">
-<img src="#">
-</a>
-</td>
-<td>
-<a href="#">
-<img src="#">
-</a>
-</td>
-  <td>
-<a href="#">
-<img src="#">
-</a>
-</td>
-  <td>
-<a href="#">
-<img src="#">
+<img src="https://i.imgur.com/eGo5UT7.png"  width="300" height="auto">
 </a>
 </td>
 </tr>
