@@ -79,6 +79,11 @@ And some more...
 <img src="https://i.imgur.com/eGo5UT7.png"  width="300" height="auto">
 </a>
 </td>
+ <td>
+<a href="#">
+<img src="https://imgur.com/a/3hiFBQ5"  width="300" height="auto">
+</a>
+</td>
 </tr>
 </table>
 
