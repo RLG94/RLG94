@@ -81,7 +81,7 @@ And some more...
 </td>
  <td>
 <a href="#">
-<img src="https://imgur.com/a/3hiFBQ5"  width="300" height="auto">
+<img src="https://imgur.com/FykYYej.png"  width="300" height="auto">
 </a>
 </td>
 </tr>
