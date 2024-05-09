@@ -15,8 +15,6 @@ I'm Roberto, and I'm truly passionate about the internet and the programming wor
 
 [![Static Badge](https://img.shields.io/badge/HTML5-orange?style=flat&logo=Html5&logoColor=orange&labelColor=white)](#)
 [![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS3&logoColor=blue&labelColor=white)](#)
-[![Static Badge](https://img.shields.io/badge/TailWind-red?style=flat&logo=TailwindCSS&logoColor=%2306b6d4&labelColor=white&color=%2306b6d4)](#)
-[![Static Badge](https://img.shields.io/badge/Bootstrap-wite?style=flat&logo=Bootstrap&logoColor=%23563d7c&labelColor=white&color=%23563d7c)](#)
 [![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=yellow&labelColor=white)](#)
 [![Static Badge](https://img.shields.io/badge/JQuery-white?style=flat&logo=JQuery&logoColor=%237ACEF4&labelColor=white&color=%237ACEF4)](#)
 [![Static Badge](https://img.shields.io/badge/TypeScript-white?style=flat&logo=TypeScript&logoColor=%09%23007acc&labelColor=white&color=%23007acc)](#)
@@ -24,13 +22,15 @@ I'm Roberto, and I'm truly passionate about the internet and the programming wor
 [![Static Badge](https://img.shields.io/badge/Git-white?style=flat&logo=Git&logoColor=%23F1502F&labelColor=white&color=%23F1502F)](#)
 [![Static Badge](https://img.shields.io/badge/GitHub-white?style=flat&logo=GitHub&logoColor=%23171515&labelColor=white&color=%23171515)](#)
 
-
-
 <hr>
 
 [![Static Badge](https://img.shields.io/badge/Adobe%20Package-white?style=flat&logo=Adobe&logoColor=%23FF0000&labelColor=white&color=%23FF0000)](#)
 [![Static Badge](https://img.shields.io/badge/Photoshop-white?style=flat&logo=Adobe%20Photoshop&logoColor=%23000080&labelColor=white&color=%23000080)](#)
 [![Static Badge](https://img.shields.io/badge/Canva-white?style=flat&logo=Canva&logoColor=%2320C4CB&labelColor=white&color=%2320C4CB)](#)
+### Working on:
+[![Static Badge](https://img.shields.io/badge/TailWind-red?style=flat&logo=TailwindCSS&logoColor=%2306b6d4&labelColor=white&color=%2306b6d4)](#)
+[![Static Badge](https://img.shields.io/badge/Bootstrap-wite?style=flat&logo=Bootstrap&logoColor=%23563d7c&labelColor=white&color=%23563d7c)](#)
+
 
 </br>
 And some more...
