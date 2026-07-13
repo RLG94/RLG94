@@ -7,7 +7,7 @@
 
 Hey there!
 
-I'm Roberto, and I'm truly passionate about the internet and the programming world. I've always been curious about this field, and some time ago, I made the decision to pivot my professional career and pursue my dream. Right now, I'm diving deep into front-end programming, and what I love most about this environment is the freedom to create practically anything that comes to mind. Creativity knows no bounds, and that's what drives me to give my best, to continuously grow, and to keep learning. Let's build something amazing together!
+I'm Roberto, and I'm truly passionate about the internet and the programming world. I've always been curious about this field, and some time ago, I made the decision to pivot my professional career and pursue my dream. Right now, I'm diving deep into full-stack programming, and what I love most about this environment is the freedom to create practically anything that comes to mind. Creativity knows no bounds, and that's what drives me to give my best, to continuously grow, and to keep learning. Let's build something amazing together!
 
 > 👥 [Since I was a kid, I've been curious about the tech world. Now, I'm making a living from it. 🤍]
 
