@@ -75,7 +75,7 @@ And some more...
 <tr>
 <td>
 <a href="#">
-<img src="https://i.imgur.com/lQs9IXw.png" width="300" height="auto">
+<img src="https://i.imgur.com/ffL5mke.jpeg" width="300" height="auto">
 </a>
 </td>
 <td>
