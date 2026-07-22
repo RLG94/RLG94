@@ -7,7 +7,7 @@
 
 Hey there!
 
-I'm Roberto, and I'm truly passionate about the internet and the programming world. I've always been curious about this field, and some time ago, I made the decision to pivot my professional career and pursue my dream. Right now, I'm diving deep into full-stack programming, and what I love most about this environment is the freedom to create practically anything that comes to mind. Creativity knows no bounds, and that's what drives me to give my best, to continuously grow, and to keep learning. Let's build something amazing together!
+I'm Roberto, and I'm truly passionate about the internet and the programming world. I've always been curious about this field, and some time ago, I made the decision to pivot my professional career an[...]
 
 > 👥 [Since I was a kid, I've been curious about the tech world. Now, I'm making a living from it. 🤍]
 
@@ -25,8 +25,8 @@ I'm Roberto, and I'm truly passionate about the internet and the programming wor
 <hr>
 
 [![Static Badge](https://img.shields.io/badge/Adobe%20Package-white?style=flat&logo=Adobe&logoColor=%23FF0000&labelColor=white&color=%23FF0000)](#)
-[![Static Badge](https://img.shields.io/badge/Photoshop-white?style=flat&logo=Adobe%20Photoshop&logoColor=%23000080&labelColor=white&color=%23000080)](#)
-[![Static Badge](https://img.shields.io/badge/Canva-white?style=flat&logo=Canva&logoColor=%2320C4CB&labelColor=white&color=%2320C4CB)](#)
+[![Static Badge](https://img.shields.io/badge/Photoshop-white?style=flat&logo=AdobePhotoshop&logoColor=%23001E36&labelColor=white&color=%23001E36)](#)
+[![Static Badge](https://img.shields.io/badge/Canva-white?style=flat&logo=Canva&logoColor=%2300C4CC&labelColor=white&color=%2300C4CC)](#)
 [![Static Badge](https://img.shields.io/badge/Bootstrap-wite?style=flat&logo=Bootstrap&logoColor=%23563d7c&labelColor=white&color=%23563d7c)](#)
 [![Static Badge](https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=%23005C87&labelColor=white&color=%23005C87)](#)
 [![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=PostgreSQL&logoColor=%23336791&labelColor=white&color=%23336791)](#)
@@ -47,20 +47,18 @@ And some more...
 
 
 
-
-
 # My main projects:
 
 ## My bar website:
 
 [Rincon do porron Website](https://rlg94.github.io/Complete-bar-Website/)
 
-#### I have my own independient business so I decided to create its website. Using just the basics-- HTML5, CSS, and vanilla JS-- I made a simple but usefull and responsive website. It's already working, and I update it from time to time
+#### I have my own independient business so I decided to create its website. Using just the basics-- HTML5, CSS, and vanilla JS-- I made a simple but usefull and responsive website. It's already worki[...]
 
 ## JQuery and Jquery-UI website blogstyle
 [JQuery / JQuery UI](https://rlg94.github.io/Web-JQuery/)
 
-#### Website in a blog style where I primarily applied jQuery and jQuery UI functionalities to familiarize myself with the library. It includes additional features like a simulated login interacting with LocalStorage and Fetch requests
+#### Website in a blog style where I primarily applied jQuery and jQuery UI functionalities to familiarize myself with the library. It includes additional features like a simulated login interacting w[...]
 <br>
 
 ## My personal portfolio on Angular 17 
@@ -100,7 +98,3 @@ And some more...
 
 [![Static Badge](https://img.shields.io/badge/GITHUB-black?style=plastic&logo=GitHub&logoColor=black&labelColor=white)
 ](https://github.com/RLG94)
-
-
-
-
