@@ -28,6 +28,8 @@ I'm Roberto, and I'm truly passionate about the internet and the programming wor
 [![Static Badge](https://img.shields.io/badge/Photoshop-white?style=flat&logo=Adobe%20Photoshop&logoColor=%23000080&labelColor=white&color=%23000080)](#)
 [![Static Badge](https://img.shields.io/badge/Canva-white?style=flat&logo=Canva&logoColor=%2320C4CB&labelColor=white&color=%2320C4CB)](#)
 [![Static Badge](https://img.shields.io/badge/Bootstrap-wite?style=flat&logo=Bootstrap&logoColor=%23563d7c&labelColor=white&color=%23563d7c)](#)
+[![Static Badge](https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=%23005C87&labelColor=white&color=%23005C87)](#)
+[![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=PostgreSQL&logoColor=%23336791&labelColor=white&color=%23336791)](#)
 
 ### Working on:
 [![Static Badge](https://img.shields.io/badge/TailWind-red?style=flat&logo=TailwindCSS&logoColor=%2306b6d4&labelColor=white&color=%2306b6d4)](#)
