@@ -24,10 +24,7 @@ I'm Roberto, and I'm truly passionate about the internet and the programming wor
 
 <hr>
 
-[![Static Badge](https://img.shields.io/badge/Adobe-white?style=flat&logo=adobecreativecloud&logoColor=%23FF0000&labelColor=white&color=%23FF0000)](#)
-[![Static Badge](https://img.shields.io/badge/Photoshop-white?style=flat&logo=adobephotoshop&logoColor=%2331A8FF&labelColor=white&color=%2331A8FF)](#)
-[![Static Badge](https://img.shields.io/badge/Canva-white?style=flat&logo=canva&logoColor=%2300C4CC&labelColor=white&color=%2300C4CC)](#)
-[![Static Badge](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=Bootstrap&logoColor=%23563d7c&labelColor=white&color=%23563d7c)](#)
+[![Adobe & Photoshop](https://skillicons.dev/icons?i=ps,ai,figma)](https://skillicons.dev)[![Static Badge](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=Bootstrap&logoColor=%23563d7c&labelColor=white&color=%23563d7c)](#)
 [![Static Badge](https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=%23005C87&labelColor=white&color=%23005C87)](#)
 [![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=PostgreSQL&logoColor=%23336791&labelColor=white&color=%23336791)](#)
 
