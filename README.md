@@ -24,7 +24,12 @@ I'm Roberto, and I'm truly passionate about the internet and the programming wor
 
 <hr>
 
-[![Adobe & Photoshop](https://skillicons.dev/icons?i=ps,ai,figma)](https://skillicons.dev)[![Static Badge](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=Bootstrap&logoColor=%23563d7c&labelColor=white&color=%23563d7c)](#)
+
+[![Static Badge](https://img.shields.io/badge/Adobe-white?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgNTAwIj48cGF0aCBmaWxsPSIjRkYwMDAwIiBkPSJNMCAwaDUwMHY1MDBIMHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjAyIDM1MGw4NS0yMDAgODUgMjAwaC00MGwtMTgtNDVoLTU0bC0xOCA0NWgtNDB6bTcyLTc5bC0xNiA0M2gzMmwtMTYtNDN6bS0xMDcgNzlWMTUwaDQwdjIwMGgtNDB6Ii8+PC9zdmc+&labelColor=white&color=%23FF0000)](#)
+
+[![Static Badge](https://img.shields.io/badge/Photoshop-white?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MjAgNTEwIj48cGF0aCBmaWxsPSIjMzFBOEZGIiBkPSJNMCAwaDUyMHY1MTBIMHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIyIDMyOVYxNTZjOC0xIDIxLTIgNDEtMiAyMCAwIDM2IDQgNDYgMTJzMTYgMjAgMTYgMzVjMCAxNS01IDI3LTE1IDM2cy0yNyAxMy00NiAxM2gtMTR2NzloLTI4em0yOC0xMDZ2NTdoMTNjMTEgMCAyMC0zIDI3LThzMTAtMTMgMTAtMjItMy0xNi05LTIwLTE1LTYtMjctNmwtMTQtMXptMTU2IDExMmMtMTIgMC0yNC0yLTM0LTZsNC0yNGM5IDUgMjAgNyAzMCA3czE3LTMgMTctMTBjMC01LTUtOS0xNS0xM2wtOC0zYy0xOS04LTI4LTE5LTI4LTMzIDAtMTIgNS0yMSAxNC0yN3MxOS05IDMzLTljMTEgMCAyMSAyIDMwIDVsLTQgMjNjLTktMy0xOC00LTI3LTRzLTEzIDMtMTMgOSA1IDkgMTQgMTJsOCAzYzIxIDggMzAgMTkgMzAgMzMgMCAxMi00IDIxLTEzIDI3cy0yMCA5LTMyIDl6Ii8+PC9zdmc+&labelColor=white&color=%2331A8FF)](#)
+
+[![Static Badge](https://img.shields.io/badge/Canva-white?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgZmlsbD0iIzAwQzRDQyIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik02NSA1MGMwIDguMy02LjcgMTUtMTUgMTVzLTE1LTYuNy0xNS0xNSA2LjctMTUgMTUtMTVjMy4zIDAgNi4zIDEuMSA4LjggMi44TDcwIDI3LjVDNjQuNCAyMi42IDU3LjUgMjAgNTAgMjBjLTE2LjYgMC0zMCAxMy40LTMwIDMwczEzLjQgMzAgMzAgMzAgMzAtMTMuNCAzMC0zMGgtMTV6Ii8+PC9zdmc+&labelColor=white&color=%2300C4CC)](#)
 [![Static Badge](https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=%23005C87&labelColor=white&color=%23005C87)](#)
 [![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=PostgreSQL&logoColor=%23336791&labelColor=white&color=%23336791)](#)
 
